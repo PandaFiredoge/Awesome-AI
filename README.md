@@ -1,4 +1,4 @@
-
+### 此文章已过时，请勿继续参考
 <br/>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/runningcheese/Awesome-ChatGPT/assets/A01%20-%20ChatGPT/Awesomegpt_Logo2.png" width="148" height="148"/>
